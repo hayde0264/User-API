@@ -21,24 +21,24 @@ Strength my back-end skills with Java, Spring Boot, and MySQL by create a User A
 ### Install the correct dependencies with spring initializr
 
 ![Init](https://github.com/hayde0264/MySQL-API/blob/main/assets/init.png)
-- See [url](https://start.spring.io)
+- See [URL](https://start.spring.io)
 
 ### Create a MySQL Database called Users
-
+![Create](https://github.com/hayde0264/MySQL-API/blob/main/assets/create.png)
 
 
 
 ### Create a user
-
+![User](https://github.com/hayde0264/MySQL-API/blob/main/assets/allow.png)
 
 
 ### Grant privileges to user
-
+![Grant](https://github.com/hayde0264/MySQL-API/blob/main/assets/grant.png)
 
 
 
 ### Update src/main/resources/application.properties
-
+![Prop](https://github.com/hayde0264/MySQL-API/blob/main/assets/properties.png)
 
 
 
@@ -86,7 +86,7 @@ public class UserModel {
   }
 }
 ```
-
+- See [file]()
 
 ### Create User Respository
 ```java
@@ -171,24 +171,25 @@ public class AccessingDataMysqlApplication {
 curl http://localhost:8080/demo/add -d name=Hayden -d email=hayde0264@gmail.com
 ```
 
-![First]()
+![First](https://github.com/hayde0264/MySQL-API/blob/main/assets/first.png)
 
 ```sh
 curl http://localhost:8080/demo/add -d name=Charlotte -d email=charjabug@yahoo.com
 ```
 
-![Second]()
+![Second](https://github.com/hayde0264/MySQL-API/blob/main/assets/second.png)
 
 ```sh
 curl http://localhost:8080/demo/add -d name=Emily -d email=emilymetzger@gmail.com
 ```
 
-![Third]()
+![Third](https://github.com/hayde0264/MySQL-API/blob/main/assets/third.png)
 
 ```sh
 curl http://localhost:8080/demo/add -d name=Grayson -d email=graysonbaker@hotmail.com
 ```
 
-![Fourth]()
+![Fourth](https://github.com/hayde0264/MySQL-API/blob/main/assets/fourth.png)
 - If the endpoint includes <code>/add</code> a <code>POST</code> request will be made
-- The terminal should response with <code>Saved</code>
+- The terminal should respond <code>Saved</code>
+

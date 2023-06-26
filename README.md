@@ -14,7 +14,7 @@ Strength my back-end skills with Java, Spring Boot, and MySQL by create a User A
 
 <b> <code>From:</code> </b>
 
-<link>https:/spring.io/guides/gs/accessing-data-mysql/</link>
+<link>https://spring.io/guides/gs/accessing-data-mysql/</link>
 
 
 ## Steps
@@ -166,7 +166,7 @@ public class AccessingDataMysqlApplication {
 ./mvnm spring-boot:run
 ```
 
-### $${\color{red}TEST}$$
+### TESTS
 
 #### Demo 1
 ```sh

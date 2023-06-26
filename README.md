@@ -167,6 +167,8 @@ public class AccessingDataMysqlApplication {
 ```
 
 ### TEST
+
+#### Demo 1
 ```sh
 curl http://localhost:8080/demo/add -d name=Hayden -d email=hayde0264@gmail.com
 ```
@@ -174,23 +176,22 @@ curl http://localhost:8080/demo/add -d name=Hayden -d email=hayde0264@gmail.com
 ![First](https://github.com/hayde0264/MySQL-API/blob/main/assets/first.png)
 
 
-
+#### Demo 2
 ```sh
 curl http://localhost:8080/demo/add -d name=Charlotte -d email=charjabug@yahoo.com
 ```
-
-
-
 ![Second](https://github.com/hayde0264/MySQL-API/blob/main/assets/second.png)
 
 
-
+#### Demo 3
 ```sh
 curl http://localhost:8080/demo/add -d name=Emily -d email=emilymetzger@gmail.com
 ```
-
 ![Third](https://github.com/hayde0264/MySQL-API/blob/main/assets/third.png)
 
+
+
+#### Demo 4
 ```sh
 curl http://localhost:8080/demo/add -d name=Grayson -d email=graysonbaker@hotmail.com
 ```

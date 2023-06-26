@@ -26,8 +26,6 @@ Strength my back-end skills with Java, Spring Boot, and MySQL by create a User A
 ### Create a MySQL Database called Users
 ![Create](https://github.com/hayde0264/MySQL-API/blob/main/assets/create.png)
 
-
-
 ### Create a user
 ![User](https://github.com/hayde0264/MySQL-API/blob/main/assets/allow.png)
 
@@ -39,7 +37,7 @@ Strength my back-end skills with Java, Spring Boot, and MySQL by create a User A
 
 ### Update src/main/resources/application.properties
 ![Prop](https://github.com/hayde0264/MySQL-API/blob/main/assets/properties.png)
-
+- See [file]()
 
 
 ### Create the User Model
@@ -166,7 +164,7 @@ public class AccessingDataMysqlApplication {
 ./mvnm spring-boot:run
 ```
 
-### TESTS
+### POST Tests
 
 #### Demo 1
 ```sh
@@ -200,3 +198,6 @@ curl http://localhost:8080/demo/add -d name=Grayson -d email=graysonbaker@hotmai
 - If the endpoint includes <code>/add</code> a <code>POST</code> request will be made
 - The terminal should respond <code>Saved</code>
 
+#### GET Tests
+![get]()
+- To make a <code>POST</code> request see [route]( http://localhost:8080/demo/all)

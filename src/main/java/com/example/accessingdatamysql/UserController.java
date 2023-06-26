@@ -21,7 +21,7 @@ public class UserController {
     // @ResponseBody means the returned String is the response, not a view name
     // @RequestParam means it is a parameter from the GET or POST request
 
-    User n = new User();
+    UserModel n = new UserModel();
     n.setName(name);
     n.setEmail(email);
     userRepository.save(n);
@@ -29,7 +29,7 @@ public class UserController {
   }
 
   @GetMapping(path="/all")
-  public @ResponseBody Iterable<User> getAllUsers() {
+  public @ResponseBody Iterable<UserModel> getAllUsers() {
     // This returns a JSON or XML with the users
     return userRepository.findAll();
   }

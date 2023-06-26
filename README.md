@@ -199,5 +199,7 @@ curl http://localhost:8080/demo/add -d name=Grayson -d email=graysonbaker@hotmai
 - The terminal should respond <code>Saved</code>
 
 #### GET Tests
-![get]()
-- To make a <code>POST</code> request see [route]( http://localhost:8080/demo/all)
+
+![Get](https://github.com/hayde0264/MySQL-API/blob/main/assets/get.png)
+
+- To make a <code>GET</code> request see [route]( http://localhost:8080/demo/all)

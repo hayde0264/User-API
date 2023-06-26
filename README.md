@@ -166,9 +166,9 @@ public class AccessingDataMysqlApplication {
 ./mvnm spring-boot:run
 ```
 
-### TEST
+### $${\color{red}TEST}$$
 
-#### $${\color{red}Demo 1}$$
+#### Demo 1
 ```sh
 curl http://localhost:8080/demo/add -d name=Hayden -d email=hayde0264@gmail.com
 ```
@@ -176,14 +176,14 @@ curl http://localhost:8080/demo/add -d name=Hayden -d email=hayde0264@gmail.com
 ![First](https://github.com/hayde0264/MySQL-API/blob/main/assets/first.png)
 
 
-#### $${\color{red}Demo 2}$$
+#### Demo 2
 ```sh
 curl http://localhost:8080/demo/add -d name=Charlotte -d email=charjabug@yahoo.com
 ```
 ![Second](https://github.com/hayde0264/MySQL-API/blob/main/assets/second.png)
 
 
-#### $${\color{red}Demo 3}$$
+#### Demo 3
 ```sh
 curl http://localhost:8080/demo/add -d name=Emily -d email=emilymetzger@gmail.com
 ```
@@ -191,7 +191,7 @@ curl http://localhost:8080/demo/add -d name=Emily -d email=emilymetzger@gmail.co
 
 
 
-#### $${\color{red}Demo 4}$$
+#### Demo 4
 ```sh
 curl http://localhost:8080/demo/add -d name=Grayson -d email=graysonbaker@hotmail.com
 ```

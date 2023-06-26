@@ -1,4 +1,4 @@
-# MySQL-With-Spring
+# Golf-Leaderboard
 
 <b> <code>Intentions:</code> </b>
 

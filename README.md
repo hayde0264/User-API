@@ -12,12 +12,14 @@ Strength my back-end skills with Java, Spring Boot, and MySQL by create a User A
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-<b> <code>Idea From:</code> </b>
+<b> <code>From:</code> </b>
 
-<link>https://spring.io/guides/gs/accessing-data-mysql/</link>
+<link>https:/spring.io/guides/gs/accessing-data-mysql/</link>
 
 
-# Steps
+## Steps
 ### Install the correct dependencies with spring initializr
 
 ![Init](https://github.com/hayde0264/MySQL-API/blob/main/assets/init.png)
+- See [url](https://start.spring.io)
+

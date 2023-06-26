@@ -173,11 +173,17 @@ curl http://localhost:8080/demo/add -d name=Hayden -d email=hayde0264@gmail.com
 
 ![First](https://github.com/hayde0264/MySQL-API/blob/main/assets/first.png)
 
+
+
 ```sh
 curl http://localhost:8080/demo/add -d name=Charlotte -d email=charjabug@yahoo.com
 ```
 
+
+
 ![Second](https://github.com/hayde0264/MySQL-API/blob/main/assets/second.png)
+
+
 
 ```sh
 curl http://localhost:8080/demo/add -d name=Emily -d email=emilymetzger@gmail.com

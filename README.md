@@ -2,7 +2,7 @@
 
 <b> <code>Intentions:</code> </b>
 
-Strength my back-end skills with Java, Spring Boot, and MySQL by create a User API.
+Strength my back-end skills with Java, Spring Boot, and MySQL by creating a User API.
 
 <b> <code>Tech Used:</code> </b>
 
